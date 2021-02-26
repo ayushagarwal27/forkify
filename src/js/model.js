@@ -1,3 +1,4 @@
+import { async } from 'regenerator-runtime';
 import { KEY, API_URL, RES_PER_PAGE } from './config.js';
 import { AJAX } from './helpers.js';
 // import { getJSON, sendJSON } from './helpers.js';
