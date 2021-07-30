@@ -1,4 +1,4 @@
-// import icons from '../img/icons.svg';
+s// import icons from '../img/icons.svg';
 import * as model from './model.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 import receipeView from './views/recipeView.js';
